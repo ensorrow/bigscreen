@@ -1,0 +1,20 @@
+.header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+.content::before{
+	content: '';
+	display: block;
+	height: 1.0625rem;
+}
+.content::after{
+	content: '';
+	display: block;
+	height: 1.5625rem;
+}
+.footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}

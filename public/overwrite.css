@@ -1,0 +1,8 @@
+.tabbar{
+	background-color: #f2f2f2;
+	padding-top: .25rem;
+}
+.tabbar i{
+	font-size: .75rem;
+	display: block;
+}
