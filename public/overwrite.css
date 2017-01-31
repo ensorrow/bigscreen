@@ -6,3 +6,31 @@
 	font-size: .75rem;
 	display: block;
 }
+.m-home .ant-tabs-nav-scroll{
+	text-align: center;
+}
+.m-home .ant-tabs-nav{
+	float: none;
+	display: inline-block;
+}
+.m-home .detail h1{
+	font-size: 14px;
+}
+[data-dpr=2] .m-home .detail h1{
+	font-size: 28px;
+}
+[data-dpr=3] .m-home .detail h1{
+	font-size: 42px;
+}
+.m-home .detail h2{
+	font-size: 12px;
+}
+[data-dpr=2] .m-home .detail h2{
+	font-size: 24px;
+}
+[data-dpr=3] .m-home .detail h2{
+	font-size: 36px;
+}
+.m-home .ant-tabs-bar{
+	margin-bottom: 0;
+}
